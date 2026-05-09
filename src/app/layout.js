@@ -4,6 +4,9 @@ export const metadata = {
   title: 'GCWARE - Portfolio',
   description: 'Portafolio profesional de Gustavo Cerdas Campos - Full Stack Developer & Automation Specialist',
   keywords: ['Full Stack Developer', 'Next.js', 'React', 'Node.js', 'Python', 'Automation', 'Costa Rica'],
+  other: {
+    'facebook-domain-verification': '6yfqxpvzuibqj6o1wafnorftn16va',
+  },
 }
 
 export default function RootLayout({ children }) {
